@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hola" />
+        <Header title="pfmsd" />
         <p className="description">
           "eh cb la" <code>pages/index.js</code>
         </p>
